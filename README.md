@@ -1,0 +1,2 @@
+Project Info:
+This SQL-based data cleaning project for Nashville housing data demonstrates advanced data manipulation techniques. It addresses common data quality issues such as inconsistent formats, missing values, and duplicates. The project showcases practical application of SQL for preparing real estate data for analysis, emphasizing the importance of clean, standardized data in deriving accurate insights.
