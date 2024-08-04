@@ -5,7 +5,7 @@ This SQL-based data cleaning project for Nashville housing data demonstrates adv
 
 This SQL project focuses on cleaning and standardizing Nashville housing data, with key insights including:
 
-1.Standardized date formats for consistency.
+1.Standardized date formats for consistency./
 2.Populated missing property addresses using self-join technique.
 3.Split property and owner addresses into separate columns for address, city, and state.
 4.Standardized 'Sold as Vacant' field values to 'Yes' and 'No'.
